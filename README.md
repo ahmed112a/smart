@@ -1,10 +1,18 @@
-# smart
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev
 
-# Let's install the bot.
-cd $HOME
-git clone https://github.com/ahmed112a/smart
-cd smart
-chmod +x launch.sh
-./launch.sh install
-./launch.sh # Enter a phone number & confirmation code.
+     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
+    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
+    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
+    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
+     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
+    ----------------------------------------------------------------- 
+
+
+Hi there! Welcome to Cloud9 IDE!
+
+To get you started, create some files, play with the terminal,
+or visit http://docs.c9.io for our documentation.
+If you want, you can also go watch some training videos at
+http://www.youtube.com/user/c9ide.
+
+Happy coding!
+The Cloud9 IDE team
